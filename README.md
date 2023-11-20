@@ -1,3 +1,5 @@
+[![Github Pages](https://img.shields.io/badge/GitHub-Pages-green)](https://github.com/Winta38/ahj-7-http-frontend/)
+
 # Домашнее задание к занятию "7. Работа с HTTP"
 
 Правила сдачи задания:
