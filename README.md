@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xbg4jjv58aouccc4/branch/master?svg=true)](https://ci.appveyor.com/project/Winta38/ahj-7-http-frontend)
+
 # Домашнее задание к занятию "7. Работа с HTTP"
 
 Правила сдачи задания:
